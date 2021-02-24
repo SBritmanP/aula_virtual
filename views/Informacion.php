@@ -10,8 +10,8 @@
 
 <div class="shadow-lg p-3 mb-2 bg-body rounded">AULA VIRTUAL FINESI UNA - PUNO</div>
 <div class="shadow-lg p-3 mb-2 bg-body rounded">VERSION 0.0001</div>
-<div class="shadow-lg p-3 mb-2 bg-body rounded">PRESENTADO POR : BRITMAN</div>
-<div class="shadow-lg p-3 mb-2 bg-body rounded">ESTE PRGROMA SOLO REGISTRA ALUMNOS Y ESTUDIANTES</div>
+<div class="shadow-lg p-3 mb-2 bg-body rounded">PRESENTADO POR : BRITMAN SALCEDO</div>
+<div class="shadow-lg p-3 mb-2 bg-body rounded">ESTE PROGRAMA SOLO REGISTRA ALUMNOS Y ESTUDIANTES</div>
 <div class="shadow-lg p-3 mb-2 bg-body rounded">SE PUEDE EXPORTAR EN EXCEL</div>
 <div class="shadow-lg p-3 mb-5 bg-body rounded">AULA VIRTUAL FINESI UNA - PUNO</div>
 <div class="color" class="shadow-lg p-3 mb-5 bg-body rounded">

@@ -3,7 +3,7 @@
 
 
   <div class="container p-4">
-  <h1>FInesi-Estudiantes</h1>
+  <h1>FINESI-Estudiantes</h1>
   <div class="row">
     <div class="col-md-4">
       <?php if(isset($_SESSION['message'])){ ?>
@@ -36,7 +36,7 @@
           </div>
         <br>
           <div class="form-group">
-            <input type="number" name="semestre" class="form-control" placeholder="semestre" autofocus>
+            <input type="number" name="semestre" class="form-control" placeholder="Semestre" autofocus>
           </div>
         <br>
           <input type="submit" class="btn btn-success btn-block" name="save_taske" value="Guardar">

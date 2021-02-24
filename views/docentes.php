@@ -3,7 +3,7 @@
 
 
   <div class="container p-4">
-  <h1>FInesi-Docentes</h1>
+  <h1>FINESI-Docentes</h1>
   <div class="row">
     <div class="col-md-4">
       <?php if(isset($_SESSION['message'])){ ?>
