@@ -16,7 +16,7 @@ if(isset($_POST['save_taske'])){
   if(!$result){
     die("query fail");
   }
-  $_SESSION['message'] = 'guardado correctamente';
+  $_SESSION['message'] = 'Guardado Correctamente';
   $_SESSION['message_type'] = 'success';
   header("Location: ../views/estudiantes.php");
 }

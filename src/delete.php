@@ -10,7 +10,7 @@
       die("ERROR ...  Query Failed");
     }
 
-    $_SESSION['message'] = 'eliminado correctamente';
+    $_SESSION['message'] = 'Eliminado Correctamente';
     $_SESSION['message_type'] = 'danger';
     header("Location:  ../views/docentes.php");
   }
